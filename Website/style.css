@@ -1,4 +1,39 @@
+.flexbox-container{
 
+    float: auto;
+    height: 0px;
+    margin: auto;
+    
+}
+
+.flexbox-item{
+    width: 100px;
+     float: left;
+     height: 100px;
+     background: rgb(79, 241, 3);
+       margin: 94px;
+       text-align: center;
+       
+}
+       
+
+
+.logo{
+    width: center;
+    float: auto;
+     height: center;
+     
+       margin:auto;
+
+}
+
+.geschiedenis_jaren_70 {
+    min-height: 100px;
+}
+body, html {
+    padding: 0px;
+    margin: 0px;
+}
 .center{
     display: block;
     margin-left: auto;
@@ -7,5 +42,13 @@
     height: 100px;
 }
 .background{
+
     background-image: url("achtergrond_website.jpg");
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-repeat: repeat;
+    background-size: contain;
 }
+
+    
