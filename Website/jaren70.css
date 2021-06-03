@@ -1,0 +1,51 @@
+.flexbox-container {
+    margin: auto;
+}
+
+h1 {
+    color: white;
+}
+
+.flexbox-container4 {
+    background-color: rgba(255, 0, 0, 0.5);
+    text-align: center;
+    text-decoration: white;
+    border: 2px solid #4CAF50;
+    margin-top: 50px;
+}
+
+.flexbox-container5 {
+    background-color: red;
+    text-align: center;
+    text-decoration: white;
+    border: 2px solid #4CAF50;
+    margin-top: 300px;
+}
+
+.logo {
+    width: center;
+    float: auto;
+    height: center;
+    margin: auto;
+}
+
+body,
+html {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-image: url("space_invaders.png");
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    height: 100px;
+}
