@@ -106,41 +106,41 @@ p {
 }
 
 .img {
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     /* /margin-top: 50px; */
     text-align: center;
-    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .flexbox-item {
-    background-image: url("pong.png");
+    background-image: url("sims.png");
 }
 
 .flexbox-item2 {
-    background-image: url("Atari.png");
+    background-image: url("gta2.png");
 }
 
 .flexbox-item3 {
-    background-image: url("mazewar.png");
+    background-image: url("worldofwarcraft.png");
 }
 
 .flexbox-item4 {
-    background-image: url("breakout.png");
+    background-image: url("guitarhero.png");
 }
 
 .flexbox-item5 {
-    background-image: url("gamecrash1977.png");
+    background-image: url("wiisports.png");
 }
 
 .flexbox-item6 {
-    background-image: url("space_invaders.png");
+    background-image: url("cod4.png");
 }
 
 .flexbox-item7 {
-    background-image: url("asteroids.png");
+    background-image: url("mineraft.jpeg");
 }
 
 .flexbox-container4 {
@@ -191,7 +191,7 @@ html {
 }
 
 body {
-    background-image: url("space_invaders.png");
+    background-image: url("mineraft.jpeg");
     background-position: center;
     background-repeat: repeat;
     background-size: cover;

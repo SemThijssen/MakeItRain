@@ -102,11 +102,11 @@ h1 {
 }
 
 p {
-    color: white;
+    color: rgb(5, 210, 5);
 }
 
 .img {
-    width: 100px;
+    width: 180px;
     height: 100px;
     /* /margin-top: 50px; */
     text-align: center;
@@ -116,31 +116,31 @@ p {
 }
 
 .flexbox-item {
-    background-image: url("pong.png");
+    background-image: url("pacman.png");
 }
 
 .flexbox-item2 {
-    background-image: url("Atari.png");
+    background-image: url("donkeykong.png");
 }
 
 .flexbox-item3 {
-    background-image: url("mazewar.png");
-}
-
-.flexbox-item4 {
-    background-image: url("breakout.png");
-}
-
-.flexbox-item5 {
     background-image: url("gamecrash1977.png");
 }
 
+.flexbox-item4 {
+    background-image: url("tetris.png");
+}
+
+.flexbox-item5 {
+    background-image: url("supermario.png");
+}
+
 .flexbox-item6 {
-    background-image: url("space_invaders.png");
+    background-image: url("zelda.png");
 }
 
 .flexbox-item7 {
-    background-image: url("asteroids.png");
+    background-image: url("simcity.png");
 }
 
 .flexbox-container4 {
@@ -191,7 +191,7 @@ html {
 }
 
 body {
-    background-image: url("space_invaders.png");
+    background-image: url("jaren80.png");
     background-position: center;
     background-repeat: repeat;
     background-size: cover;

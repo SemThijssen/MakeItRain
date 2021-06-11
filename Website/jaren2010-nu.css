@@ -106,41 +106,41 @@ p {
 }
 
 .img {
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     /* /margin-top: 50px; */
     text-align: center;
-    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .flexbox-item {
-    background-image: url("pong.png");
+    background-image: url("civilization.png");
 }
 
 .flexbox-item2 {
-    background-image: url("Atari.png");
+    background-image: url("the\ witcher2.jpg");
 }
 
 .flexbox-item3 {
-    background-image: url("mazewar.png");
+    background-image: url("gta5.jpg");
 }
 
 .flexbox-item4 {
-    background-image: url("breakout.png");
+    background-image: url("pokemongo.png");
 }
 
 .flexbox-item5 {
-    background-image: url("gamecrash1977.png");
+    background-image: url("ark.jpg");
 }
 
 .flexbox-item6 {
-    background-image: url("space_invaders.png");
+    background-image: url("assasin\'s\ creed.png");
 }
 
 .flexbox-item7 {
-    background-image: url("asteroids.png");
+    background-image: url("residentevil.png");
 }
 
 .flexbox-container4 {
@@ -191,7 +191,7 @@ html {
 }
 
 body {
-    background-image: url("space_invaders.png");
+    background-image: url("ark_logo.jpg");
     background-position: center;
     background-repeat: repeat;
     background-size: cover;
